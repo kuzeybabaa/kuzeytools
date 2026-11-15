@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":1,\"updatedAt\":\"2026-11-15T21:30:59.515Z\",\"users\":[]}",
- "sig": "EwLt5VeCGChDbnLM4sv12IFQL28d8n0g620esxiCuJIisOq/iABi5l+gPrcG77BwwU7gv32P0aUBEYkJPr6ZBg=="
+ "payload": "{\"v\":1,\"updatedAt\":\"2026-11-15T21:36:57.503Z\",\"users\":[{\"u\":\"9bdc1107f936c748d9fb39215863cf9351daffcb4a3887a49c9c48a8c8d53f14\",\"pw\":\"scrypt$16384$8$1$Nv/7JopzocvEa/Zkqqk/lQ==$6nIWCARWdYwt81sdvmgMcpH9r3bv6eTF4RmiL9S2l+U=\",\"exp\":\"3999-11-16T20:59:59.000Z\"}]}",
+ "sig": "uXKV8QsyOw7BL7sNUD/a+ehXU/KkNV1wjJbFbD/crqvYnNOU9UGL+smUQu0Nae25dEQ3ciqQfQ+Qu224Esv/CQ=="
 }
